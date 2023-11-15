@@ -1,0 +1,14 @@
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/bin/Debug/net7.0/Task2
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/bin/Debug/net7.0/Task2.dll
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/Task2.dll
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/glebfrolov/Documents/Labs (7 semestr)/Lab4/Task2/obj/Debug/net7.0/ref/Task2.dll
