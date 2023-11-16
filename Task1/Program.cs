@@ -33,7 +33,7 @@ static int[,] fill_fields(in int n, in int k)
     string arrs;
     int[,] arrayInt = new int[n, k];
 
-    Console.WriteLine("Input array with space:");
+    Console.WriteLine($"Input array {n}x{k} with space:");
 
     for (int i = 0; i < arrayInt.GetLength(0); i++)
     {
